@@ -28,7 +28,7 @@ A comprehensive Point of Sale (POS) system for managing grocery store operations
 ### Steps
 1. Clone the repository
     ```bash
-    git clone https://github.com/<username>/QuickGroceryPOS.git
+    git clone https://github.com/MasterWithAhmad/QuickGroceryPOS.git
     cd QuickGroceryPOS
     ```
 
